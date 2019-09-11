@@ -5,7 +5,7 @@
 - Pada halaman Detail terdapat widget Image dan Text.
 
 # Screenshot
-
+![pon](https://user-images.githubusercontent.com/41458819/64715084-07372100-d4ea-11e9-9cb9-6450981d01aa.gif)
 
 # Build with :
 - [Flutter](https://flutter.dev/)
