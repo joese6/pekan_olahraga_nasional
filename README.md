@@ -1,4 +1,4 @@
-# Aplikasi Flutter Sederhana - Pekan Olahraga Nasional (Tugas 3 - OSG05)
+# Aplikasi Flutter Sederhana - Pekan Olahraga Nasional
 
 - Menggunakan widget GridView pada halaman utama untuk menampilkan data berupa gambar.
 - Ketika item di klik akan berpindah ke halaman Detail dan menampilkan data sesuai item yang di klik.
